@@ -1,0 +1,5 @@
+hip-hop 6 60
+rock 7 65
+electronic 8 55
+classical 4 70
+pop 8 50
